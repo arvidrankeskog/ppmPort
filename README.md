@@ -1,4 +1,4 @@
 # ppmPort
-otroligt robust portföjteori för premiepensionen=)
+otroligt robust portföjteori för premiepensionen...
 
 App: https://ppmport.streamlit.app/
